@@ -1,0 +1,1 @@
+dig _github-pages-challenge-dopeitsdoc.solanocountymuscle.com +nostats +nocomments +nocmd TXT
